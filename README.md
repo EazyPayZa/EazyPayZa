@@ -1,0 +1,2 @@
+# EazyPayZa
+ EazyPayZa Coin
